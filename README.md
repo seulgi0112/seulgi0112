@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### Interest 🤔 
-- ML(Machine Learning)
-- Algorithm
-- Rest API
-- Clean Code
+- 🔭ML(Machine Learning)
+- 🌱Algorithm
+- 📫Rest API
+- 💬Clean Code
 
 
 <div align=center>
