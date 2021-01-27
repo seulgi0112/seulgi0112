@@ -1,8 +1,4 @@
-<div align=center>
-	
-	## Hi there 👋
-
-</div>
+## Hi there 👋
 
 ### Interest 🤔 
 - ML(Machine Learning)
