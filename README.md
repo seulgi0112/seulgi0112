@@ -3,8 +3,8 @@
 ### Interest 🤔 
 - 🔭ML(Machine Learning)
 - 🌱Algorithm
-- 📫Rest API
-- 💬Clean Code
+- 📫Spring
+- 💬Spring Boot
 
 
 <div align=center>
